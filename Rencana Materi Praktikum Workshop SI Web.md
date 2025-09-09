@@ -13,3 +13,12 @@
 - 6.2 Menerapkan Fungsi Pada CRUD
 - 7.1 Array 1 dimensi & multidimensi
 - 7.2 Membuat Form Upload File & Manajemen Data
+- 8 UTS
+- Minggu 9	Merancang Desain dan Alur Aplikasi
+- Minggu 10	Merancang Database
+- Minggu 11	Frontend
+- Minggu 12	Input/CRUD
+- Minggu 13	Proses/Transaksi
+- Minggu 14	Output/Laporan
+- Minggu 15	Review/Penilaian
+- Minggu 16	UAS/Pameran
