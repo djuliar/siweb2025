@@ -1,0 +1,15 @@
+<b>Rencana Materi Praktikum Workshop SI Web</b>
+- 1.1 Instalasi dan Pengenalan Bahasa Pemrograman Web
+- 1.2 Membuat Halaman Portofolio
+- 2.1 Membuat Form Biodata
+- 2.2 Membuat Fitur Auth (Register, Login, Logout) + OOP Auth
+- 3.1 Templating Bootstrap Frontend
+- 3.2 Templating Bootstrap Backend
+- 4.1 Struktur Kontrol Percabangan
+- 4.2 Struktur Kontrol Perulangan
+- 5.1 CRUD (Create & Read)
+- 5.2 CRUD (Update & Delete)
+- 6.1 Fungsi dalam PHP
+- 6.2 Menerapkan Fungsi Pada CRUD
+- 7.1 Array 1 dimensi & multidimensi
+- 7.2 Membuat Form Upload File & Manajemen Data
