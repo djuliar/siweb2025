@@ -1,0 +1,15 @@
+body { font-family: Arial, sans-serif; margin: 20px; }
+#result {
+    border: 1px solid #ddd;
+    max-width: 300px;
+    background: #fff;
+    position: absolute;
+    z-index: 1000;
+}
+.item {
+    padding: 8px;
+    cursor: pointer;
+}
+.item:hover {
+    background: #f0f0f0;
+}
