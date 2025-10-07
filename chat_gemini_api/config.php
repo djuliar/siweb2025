@@ -1,6 +1,6 @@
 <?php
 // API Key Gemini
-define("GEMINI_API_KEY", "AIzaSyCT_r88UVijSwkVtGlWMBtbW-v53qE-d3g");
+define("GEMINI_API_KEY", "AIzaSyDZg4iZFFS6r83xxsmDJclkwbHN7Ae1ZxM");
 
 // Koneksi database MySQL
 $host = "localhost";
